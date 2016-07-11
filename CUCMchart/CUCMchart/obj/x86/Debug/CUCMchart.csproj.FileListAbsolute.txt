@@ -1,0 +1,10 @@
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\bin\CUCMchart.dll.config
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\bin\CUCMchart.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\bin\CUCMchart.pdb
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\bin\Interop.CIPIMAGE.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\bin\Interop.CiscoURLProxy.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\obj\x86\Debug\Interop.CIPIMAGE.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\obj\x86\Debug\Interop.CiscoURLProxy.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\obj\x86\Debug\CUCMchart.csproj.ResolveComReference.cache
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\obj\x86\Debug\CUCMchart.dll
+c:\users\ktoloc\documents\visual studio 2013\Projects\CUCMchart\CUCMchart\obj\x86\Debug\CUCMchart.pdb
